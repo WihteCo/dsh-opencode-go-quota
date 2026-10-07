@@ -1,0 +1,6 @@
+# dsh-opencode-go-quota bundle patch: inserts its own plugin row into the
+# profile's loader tree. The Host half serves the quota route; the Client half
+# renders the widget in the sidebar foot.
+- insert:
+    - id: opencode-go-quota
+      name: 'dsh-opencode-go-quota'

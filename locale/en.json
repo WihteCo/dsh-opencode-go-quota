@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go Quota",
+    "description": "Shows the live OpenCode Go subscription quota (5-hour, weekly, monthly) under the workspace list in the sidebar."
+  }
+}

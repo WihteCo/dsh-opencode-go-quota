@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "OpenCode Go 额度",
+    "description": "在侧边栏「工作区」列表下方显示 OpenCode Go 订阅的实时额度用量（5小时 / 每周 / 每月）。"
+  }
+}
