@@ -4,7 +4,11 @@
   "type": "module",
   "description": "OpenCode Go quota in the DeepSeek Harness sidebar: rolling 5-hour, weekly and monthly usage percents with reset countdowns, read from OpenCode's official usage API.",
   "license": "MIT",
-  "author": "kangzichen",
+  "author": "WihteCo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WihteCo/dsh-opencode-go-quota.git"
+  },
   "keywords": [
     "dsh",
     "dsh-plugin",
