@@ -46,7 +46,7 @@ window.__ModuleLoader__.load({
     ]
 
     const CSS = `
-.ogq-cell{flex:none;align-items:center;width:100%;min-width:0;height:42px;margin:6px 0 0;display:flex;position:relative}
+.ogq-cell{flex:1 1 auto;align-items:center;min-width:0;height:42px;margin:6px 0 0;display:flex;position:relative}
 .ogq-cell.rail{width:36px;height:36px;margin:0}
 .ogq-btn{align-items:center;width:100%;min-width:0;height:42px;gap:8px;margin:0 -2px;padding:0 10px 0 8px;border:none;border-radius:12px;background:0 0;color:var(--dsw-alias-label-primary);font:inherit;font-size:14px;cursor:pointer;display:inline-flex;overflow:hidden;user-select:none}
 .ogq-btn:hover{background:var(--dsw-alias-interactive-bg-hover)}
